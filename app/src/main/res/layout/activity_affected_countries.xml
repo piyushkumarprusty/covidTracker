@@ -23,6 +23,22 @@
     />
 
 
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/edtSearchh"
+        android:layout_margin="10dp"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:paddingLeft="20dp"
+        android:hint="Search"
+        android:drawablePadding="15dp"
+        android:drawableLeft="@drawable/search_sign"
+        android:background="@drawable/edittext_shadow"
+        />
+
+
     <ListView
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
