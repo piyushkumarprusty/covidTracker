@@ -32,6 +32,7 @@
         android:id="@+id/listView"
         android:layout_below="@+id/edtSearch"
         />
+    
     <com.leo.simplearcloader.SimpleArcLoader
         android:visibility="visible"
         android:id="@+id/loader"
