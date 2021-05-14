@@ -24,6 +24,6 @@ public class AffectedCountries extends AppCompatActivity {
         listview = findViewById(R.id.listView);
         simpleArcLoader = findViewById(R.id.loader);
 
-
+founf the
     }
 }
